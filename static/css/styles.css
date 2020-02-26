@@ -453,6 +453,12 @@ img {
   .header-nav .navbar-nav .nav-link {
     padding: 0;
   }
+  .about-img img {
+    display: none;
+  }
+  .col-md-6 img {
+    display: none;
+  }
 }
 /*---------------------------------
 * Header side
